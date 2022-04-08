@@ -5,3 +5,4 @@ let mul = a*b;
 console.log('-------------------')
 console.log(sum)
 console.log(mul)
+console.log('conflicts')
